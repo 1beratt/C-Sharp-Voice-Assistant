@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AddCommands>
+  <Commands>
+    <Command>Open browser</Command>
+    <Location>C:\Program Files\Google\Chrome\Application\chrome.exe</Location>
+  </Commands>
+  <Commands>
+    <Command>Code please</Command>
+    <Location>C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe</Location>
+  </Commands>
+  <Commands>
+    <Command>How would you like to design?</Command>
+    <Location>C:\Program Files\Adobe\Adobe Photoshop 2021\Photoshop.exe</Location>
+  </Commands>
+  <Commands>
+    <Command>Can you open Illustrator?</Command>
+    <Location>C:\Program Files\Adobe\Adobe Illustrator 2022\Support Files\Contents\Windows\Illustrator.exe</Location>
+  </Commands>
+  <Commands>
+    <Command>Start xampp</Command>
+    <Location>C:\xampp\xampp-control.exe</Location>
+  </Commands>
+</AddCommands>

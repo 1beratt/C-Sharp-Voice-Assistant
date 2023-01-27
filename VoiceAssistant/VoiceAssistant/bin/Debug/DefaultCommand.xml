@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DefaultCommands>
+  <Commands>
+    <Command>Hello</Command>
+  </Commands>
+  <Commands>
+    <Command>What's up</Command>
+  </Commands>
+  <Commands>
+    <Command>What's your name</Command>
+  </Commands>
+  <Commands>
+    <Command>How old are you</Command>
+  </Commands>
+  <Commands>
+    <Command>Who created you</Command>
+  </Commands>
+  <Commands>
+    <Command>Show commands</Command>
+  </Commands>
+  <Commands>
+    <Command>Minimize assistant</Command>
+  </Commands>
+  <Commands>
+    <Command>What time is it?</Command>
+  </Commands>
+  <Commands>
+    <Command>Computer sleep mode</Command>
+  </Commands>
+  <Commands>
+    <Command>Hibernate Computer</Command>
+  </Commands>
+  <Commands>
+    <Command>Sleep time</Command>
+  </Commands>
+</DefaultCommands>

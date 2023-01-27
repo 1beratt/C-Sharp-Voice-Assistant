@@ -1,0 +1,14 @@
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.exe.config
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.exe
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\bin\Debug\VoiceAssistant.pdb
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.AssemblyReference.cache
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.Home.resources
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.Properties.Resources.resources
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.GenerateResource.cache
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.CoreCompileInputs.cache
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.exe
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.pdb
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.csproj.CopyComplete
+C:\Users\ZEUS\source\repos\VoiceAssistant\VoiceAssistant\obj\Debug\VoiceAssistant.OptionsPage.resources
